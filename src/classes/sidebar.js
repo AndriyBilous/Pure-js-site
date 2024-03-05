@@ -1,5 +1,5 @@
-import { block } from "../utils";
-import { ColumnsBlock, TextBlock, TitleBlock } from "./blocks";
+import { block } from "../utils.js";
+import { ColumnsBlock, TextBlock, TitleBlock } from "./blocks.js";
 
 export class Sidebar {
   constructor(selector, updateCallback) {

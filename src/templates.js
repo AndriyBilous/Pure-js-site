@@ -1,4 +1,4 @@
-import { row, col, css } from "./utils";
+import { row, col, css } from "./utils.js";
 
 function title(block) {
   const { tag = "h1", styles } = block.options;

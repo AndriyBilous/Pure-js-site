@@ -1,5 +1,5 @@
-import { Site } from "./site";
-import { Sidebar } from "./sidebar";
+import { Site } from "./site.js";
+import { Sidebar } from "./sidebar.js";
 
 export class App {
   constructor(model) {

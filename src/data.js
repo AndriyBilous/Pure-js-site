@@ -4,7 +4,7 @@ import {
   TitleBlock,
   ColumnsBlock,
   ImageBlock,
-} from "./classes/blocks";
+} from "./classes/blocks.js";
 
 export const data = [
   new TitleBlock("Pure JS site constructor", {

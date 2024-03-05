@@ -1,4 +1,4 @@
-import { col, css, row } from "../utils";
+import { col, css, row } from "../utils.js";
 
 class Block {
   constructor(value, options) {
