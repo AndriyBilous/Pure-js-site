@@ -36,7 +36,7 @@
 82G:\learning\js\node_modules\css-select\node_modules\entities\lib\esm\decode.js.map133531574652189210 0
 45G:\learning\js\node_modules\csso\node_modules133531574612477095 1
 52G:\learning\js\node_modules\htmlparser2\lib\index.js133531574618212762 0
-19G:\learning\js\dist133541156415447976 1
+19G:\learning\js\dist133541158753843754 1
 59G:\learning\js\node_modules\caniuse-lite\data\regions\IT.js133531574631722724 0
 56G:\learning\js\node_modules\css-tree\cjs\lexer\match.cjs133531574626616944 0
 36G:\learning\js\node_modules\entities133531574623621375 1
@@ -84,7 +84,7 @@
 59G:\learning\js\node_modules\update-browserslist-db\index.js133531574620748765 0
 58G:\learning\js\node_modules\nth-check\lib\esm\package.json133531574620453667 0
 60G:\learning\js\node_modules\@parcel\packager-js\package.json133531574645549663 0
-26G:\learning\js\src\data.js133541154905968349 0
+26G:\learning\js\src\data.js133541158612174864 0
 64G:\learning\js\node_modules\caniuse-lite\data\features\beacon.js133531574626081834 0
 79G:\learning\js\node_modules\@swc\helpers\_\_class_static_private_field_spec_set133531574629427371 1
 57G:\learning\js\node_modules\@parcel\core\lib\constants.js133531574658310117 0
@@ -5229,7 +5229,7 @@
 96G:\learning\js\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\sortDefsChildren.js133531574656469927 0
 84G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo.js133531574657369931 0
 96G:\learning\js\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_applyTransforms.js133531574654844617 0
-37G:\learning\js\dist\index.73ee9776.js133541156412178474 0
+37G:\learning\js\dist\index.73ee9776.js133541158750827163 0
 82G:\learning\js\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\parser.js133531574655589717 0
 80G:\learning\js\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\path.js133531574655619721 0
 87G:\learning\js\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\stringifier.js133531574656489925 0
@@ -5523,7 +5523,7 @@
 93G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Comment.js133531574655469711 0
 98G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\TypeSelector.js133531574656439926 0
 96G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\WhiteSpace.js133531574656569936 0
-38G:\learning\js\dist\index.7d00abcc.css133541156411278481 0
+38G:\learning\js\dist\index.7d00abcc.css133541158750006983 0
 85G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist\csso.js133531574655699702 0
 89G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist\csso.min.js133531574655819713 0
 81G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data133531574657925016 1
@@ -5946,4 +5946,4 @@
 37G:\learning\js\node_modules\.bin\svgo133531574712524233 0
 41G:\learning\js\node_modules\.bin\svgo.cmd133531574712524233 0
 59G:\learning\js\node_modules\.bin\update-browserslist-db.ps1133531574712524233 0
-30G:\learning\js\dist\index.html133541156415447976 0
+30G:\learning\js\dist\index.html133541158753843754 0

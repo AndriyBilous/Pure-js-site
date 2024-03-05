@@ -3,7 +3,7 @@ import {
   TextBlock,
   TitleBlock,
   ColumnsBlock,
-  ImageBlock,
+  // ImageBlock,
 } from "./classes/blocks.js";
 
 export const data = [
