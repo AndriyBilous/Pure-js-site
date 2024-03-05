@@ -14,17 +14,17 @@ function columns(block) {
   return row(html, css(block.options.styles));
 }
 
-function image(block) {
-  const { alt = "", imageStyles, styles } = block.options;
-  return row(
-    `<img src="${block.value}" alt="${alt}" style="${css(imageStyles)}"/>`,
-    css(styles)
-  );
-}
+// function image(block) {
+//   const { alt = "", imageStyles, styles } = block.options;
+//   return row(
+//     `<img src="${block.value}" alt="${alt}" style="${css(imageStyles)}"/>`,
+//     css(styles)
+//   );
+// }
 
 export const templates = {
   title,
   text,
   columns,
-  image,
+  // image,
 };

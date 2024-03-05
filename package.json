@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "javascript application",
   "scripts": {
-    "serve": "parcel ./src/index.html -p 4200 --open",
+    "serve": "parcel ./index.html -p 4200 --open",
     "build": "parcel build ./index.html --no-source-maps"
   },
   "keywords": [

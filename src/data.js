@@ -1,4 +1,4 @@
-import image from "./assets/image.jpeg";
+// import image from "./assets/image.jpeg";
 import {
   TextBlock,
   TitleBlock,
@@ -17,18 +17,18 @@ export const data = [
       "text-align": "center",
     },
   }),
-  new ImageBlock(image, {
-    styles: {
-      padding: "2rem 0",
-      display: "flex",
-      "justify-content": "center",
-    },
-    imageStyles: {
-      width: "500px",
-      height: "auto",
-    },
-    alt: "It`s a picture",
-  }),
+  // new ImageBlock(image, {
+  //   styles: {
+  //     padding: "2rem 0",
+  //     display: "flex",
+  //     "justify-content": "center",
+  //   },
+  //   imageStyles: {
+  //     width: "500px",
+  //     height: "auto",
+  //   },
+  //   alt: "It`s a picture",
+  // }),
   new ColumnsBlock(
     [
       "Application, constructed mostly on JavaScript, with minimum of HTML and CSS",

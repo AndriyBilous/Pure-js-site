@@ -1,0 +1,13 @@
+function t(t,e=""){return`<div class="row" style="${e}">${t}</div>`}function e(t){return`<div class="col-sm">${t}</div>`}function s(t={}){return"string"==typeof t?t:Object.keys(t).map(e=>`${e}: ${t[e]}`).join(";")}function n(t,e="value"){return`
+        <form name="${t}">
+            <h5>${t}</h5>
+            <div class="form-group">
+                <input class="form-control form-control-sm" name="value" placeholder="${e}">
+            </div>
+            <div class="form-group">
+                <input class="form-control form-control-sm" name="styles" placeholder="styles">
+            </div>
+            <button type="submit" class="btn btn-primary btn-sm">Add</button>
+        </form>
+        <hr />
+        `}class r{constructor(t,e){this.value=t,this.options=e}toHTML(){throw Error("Method toHTML is a Must!!!")}}class o extends r{constructor(t,e){super(t,e)}toHTML(){let{tag:n="h1",styles:r}=this.options;return t(e(`<${n}>${this.value}</${n}>`),s(r))}}class i extends r{constructor(t,e){super(t,e)}toHTML(){return t(this.value.map(e).join(""),s(this.options.styles))}}class l extends r{constructor(t,e){super(t,e)}toHTML(){return t(e(`<p>${this.value}</p>`),s(this.options.styles))}}const a=[new o("Pure JS site constructor",{tag:"h2",styles:{background:"linear-gradient(to right, #ff0099, #493240)",color:"#fff",padding:"1.5rem","text-align":"center"}}),new i(["Application, constructed mostly on JavaScript, with minimum of HTML and CSS","Application don`t use any libraries"],{styles:{background:"linear-gradient(to bottom, #8e2de2, #4a00e0)",padding:"2rem",color:"#fff","font-weight":"bold"}}),new l("some text",{styles:{background:"linear-gradient(to left, #f2994a, #f2c94c)",padding:"1rem","font-weight":"bold"}})];class c{constructor(t){this.$el=document.querySelector(t)}render(t){this.$el.innerHTML="",t.forEach(t=>{this.$el.insertAdjacentHTML("beforeend",t.toHTML())})}}class u{constructor(t,e){this.$el=document.querySelector(t),this.update=e,this.init()}init(){this.$el.insertAdjacentHTML("afterbegin",this.template),this.$el.addEventListener("submit",this.addBlock.bind(this))}get template(){return[n("text"),n("title"),n("columns","1Value,2Value,...,NValue")].join("")}addBlock(t){let e;t.preventDefault();let s=t.target.name,n=t.target.value.value,r=t.target.styles.value;switch(s){case"text":e=new l(n,{styles:r});break;case"title":e=new o(n,{styles:r});break;case"columns":e=new i(n.split(","),{styles:r})}this.update(e),t.target.value.value="",t.target.styles.value=""}}new class{constructor(t){this.model=t}init(){let t=new c("#site");t.render(this.model),new u("#panel",e=>{this.model.push(e),t.render(this.model)})}}(a).init();

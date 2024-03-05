@@ -21,20 +21,6 @@ export class TitleBlock extends Block {
   }
 }
 
-export class ImageBlock extends Block {
-  constructor(value, options) {
-    super(value, options);
-  }
-
-  toHTML() {
-    const { alt = "", imageStyles, styles } = this.options;
-    return row(
-      `<img src="${this.value}" alt="${alt}" style="${css(imageStyles)}"/>`,
-      css(styles)
-    );
-  }
-}
-
 export class ColumnsBlock extends Block {
   constructor(value, options) {
     super(value, options);
@@ -55,3 +41,17 @@ export class TextBlock extends Block {
     return row(col(`<p>${this.value}</p>`), css(this.options.styles));
   }
 }
+
+// export class ImageBlock extends Block {
+//   constructor(value, options) {
+//     super(value, options);
+//   }
+
+//   toHTML() {
+//     const { alt = "", imageStyles, styles } = this.options;
+//     return row(
+//       `<img src="${this.value}" alt="${alt}" style="${css(imageStyles)}"/>`,
+//       css(styles)
+//     );
+//   }
+// }
