@@ -1,10 +1,6 @@
 // import image from "./assets/image.jpeg";
-import {
-  TextBlock,
-  TitleBlock,
-  ColumnsBlock,
-  // ImageBlock,
-} from "./classes/blocks.js";
+import { TextBlock, TitleBlock, ColumnsBlock } from "./classes/blocks.js";
+// import { ImageBlock } from './classes/blocks.js'
 
 export const data = [
   new TitleBlock("Pure JS site constructor", {
