@@ -18,7 +18,7 @@
 96G:\learning\js\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133531574651517233 0
 64G:\learning\js\node_modules\@parcel\profiler\test\Tracer.test.js133531574631147610 0
 56G:\learning\js\node_modules\lightningcss\node\index.d.ts133531574624381385 0
-27G:\learning\js\package.json133541120765921384 0
+27G:\learning\js\package.json133541149389773016 0
 91G:\learning\js\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\general.d.ts133531574654949720 0
 36G:\learning\js\node_modules\css-what133531574623000032 1
 37G:\learning\js\node_modules\lru-cache133531574618097644 1
@@ -36,7 +36,7 @@
 82G:\learning\js\node_modules\css-select\node_modules\entities\lib\esm\decode.js.map133531574652189210 0
 45G:\learning\js\node_modules\csso\node_modules133531574612477095 1
 52G:\learning\js\node_modules\htmlparser2\lib\index.js133531574618212762 0
-19G:\learning\js\dist133541120881918291 1
+19G:\learning\js\dist133541149424446373 1
 59G:\learning\js\node_modules\caniuse-lite\data\regions\IT.js133531574631722724 0
 56G:\learning\js\node_modules\css-tree\cjs\lexer\match.cjs133531574626616944 0
 36G:\learning\js\node_modules\entities133531574623621375 1
@@ -44,7 +44,7 @@
 59G:\learning\js\node_modules\caniuse-lite\data\regions\TT.js133531574634464671 0
 62G:\learning\js\node_modules\@parcel\core\lib\InternalConfig.js133531574658500127 0
 61G:\learning\js\node_modules\css-tree\lib\syntax\node\index.js133531574628997376 0
-25G:\learning\js\index.html133541120591770162 0
+25G:\learning\js\index.html133541144635475134 0
 72G:\learning\js\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133531574626456940 0
 77G:\learning\js\node_modules\caniuse-lite\data\features\keyboardevent-which.js133531574631907870 0
 70G:\learning\js\node_modules\node-gyp-build-optional-packages\README.md133531574621138761 0
@@ -55,7 +55,7 @@
 45G:\learning\js\node_modules\stable\index.d.ts133531574617091519 0
 65G:\learning\js\node_modules\@parcel\transformer-svg\lib\inline.js133531574633738348 0
 79G:\learning\js\node_modules\csso\node_modules\css-tree\lib\syntax\node\Block.js133531574652039220 0
-33G:\learning\js\src\classes\app.js133535873750279043 0
+33G:\learning\js\src\classes\app.js133541124746806773 0
 74G:\learning\js\node_modules\caniuse-lite\data\features\css-motion-paths.js133531574628987365 0
 27G:\learning\js\node_modules133531574716582500 1
 49G:\learning\js\node_modules\svgo\plugins\_path.js133531574625161616 0
@@ -70,7 +70,7 @@
 64G:\learning\js\node_modules\htmlnano\lib\modules\mergeStyles.cjs133531574623901379 0
 40G:\learning\js\node_modules\caniuse-lite133531574635214791 1
 48G:\learning\js\node_modules\is-glob\package.json133531574620658757 0
-25G:\learning\js\src\assets133541092096172043 1
+25G:\learning\js\src\assets133541135434012452 1
 43G:\learning\js\node_modules\semver\internal133531574625371609 1
 65G:\learning\js\node_modules\@swc\helpers\cjs\_read_only_error.cjs133531574626386938 0
 62G:\learning\js\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133531574628077162 0
@@ -84,7 +84,7 @@
 59G:\learning\js\node_modules\update-browserslist-db\index.js133531574620748765 0
 58G:\learning\js\node_modules\nth-check\lib\esm\package.json133531574620453667 0
 60G:\learning\js\node_modules\@parcel\packager-js\package.json133531574645549663 0
-26G:\learning\js\src\data.js133541062813194690 0
+26G:\learning\js\src\data.js133541135593805218 0
 64G:\learning\js\node_modules\caniuse-lite\data\features\beacon.js133531574626081834 0
 79G:\learning\js\node_modules\@swc\helpers\_\_class_static_private_field_spec_set133531574629427371 1
 57G:\learning\js\node_modules\@parcel\core\lib\constants.js133531574658310117 0
@@ -92,14 +92,14 @@
 57G:\learning\js\node_modules\@parcel\transformer-babel\src133531574640416662 1
 97G:\learning\js\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.js.map133531574652129210 0
 56G:\learning\js\node_modules\entities\lib\encode.d.ts.map133531574623420039 0
-27G:\learning\js\src\index.js133535874629575221 0
+27G:\learning\js\src\index.js133541142442509293 0
 49G:\learning\js\node_modules\mdn-data\api\index.js133531574617182315 0
 57G:\learning\js\node_modules\domelementtype\lib\index.d.ts133531574621773878 0
 58G:\learning\js\node_modules\nth-check\lib\compile.d.ts.map133531574621058763 0
 48G:\learning\js\node_modules\yallist\package.json133531574618777863 0
 50G:\learning\js\node_modules\json5\lib\unicode.d.ts133531574624921601 0
 66G:\learning\js\node_modules\@parcel\transformer-babel\lib\types.js133531574640406657 0
-31G:\learning\js\src\templates.js133534200933813424 0
+31G:\learning\js\src\templates.js133541124478379425 0
 66G:\learning\js\node_modules\css-tree\cjs\parser\parse-selector.cjs133531574627117157 0
 71G:\learning\js\node_modules\caniuse-lite\data\features\vector-effect.js133531574634689711 0
 95G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_transforms.js133531574656069718 0
@@ -164,21 +164,19 @@
 55G:\learning\js\node_modules\source-map-js\source-map.js133531574621333879 0
 93G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\compile.js133531574655679710 0
 56G:\learning\js\node_modules\weak-lru-cache\tests\test.js133531574620728767 0
-36G:\learning\js\src\classes\blocks.js133541077043067325 0
+36G:\learning\js\src\classes\blocks.js133541124788883486 0
 47G:\learning\js\node_modules\posthtml\lib\api.js133531574621763881 0
 76G:\learning\js\node_modules\csso\node_modules\css-tree\cjs\parser\create.cjs133531574650807251 0
 79G:\learning\js\node_modules\css-select\node_modules\domutils\lib\esm\helpers.js133531574652319216 0
 59G:\learning\js\node_modules\caniuse-lite\data\regions\CY.js133531574629827371 0
-37G:\learning\js\src\classes\sidebar.js133541083013257661 0
+37G:\learning\js\src\classes\sidebar.js133541124894817158 0
+54G:\learning\js\node_modules\js-yaml\lib\type\binary.js133531574619618341 0
+74G:\learning\js\node_modules\htmlnano\lib\modules\removeAttributeQuotes.cjs133531574624571380 0
+36G:\learning\js\src\assets\image.jpeg133307836188443514 0
 75G:\learning\js\node_modules\caniuse-lite\data\features\css-focus-visible.js133531574628567369 0
 34G:\learning\js\src\classes\site.js133535868420913438 0
 59G:\learning\js\node_modules\caniuse-lite\data\regions\VA.js133531574634654617 0
 32G:\learning\js\node_modules\.bin133531574712544225 1
-59G:\learning\js\node_modules\domelementtype\lib\esm\index.js133531574618137643 0
-35G:\learning\js\src\assets\image.jpg133307836188443514 0
-46G:\learning\js\node_modules\@swc\core\spack.js133531574622550040 0
-62G:\learning\js\node_modules\@parcel\codeframe\lib\codeframe.js133531574629347364 0
-62G:\learning\js\node_modules\caniuse-lite\data\features\json.js133531574631837928 0
 56G:\learning\js\node_modules\posthtml-parser\changelog.md133531574622008983 0
 59G:\learning\js\node_modules\caniuse-lite\data\regions\MV.js133531574632558089 0
 51G:\learning\js\node_modules\msgpackr\test-worker.js133531574625031621 0
@@ -2261,8 +2259,6 @@
 50G:\learning\js\node_modules\@parcel\events\LICENSE133531574655879716 0
 46G:\learning\js\node_modules\js-yaml\lib\schema133531574623581395 1
 47G:\learning\js\node_modules\js-yaml\lib\type.js133531574624881621 0
-54G:\learning\js\node_modules\js-yaml\lib\type\binary.js133531574619618341 0
-74G:\learning\js\node_modules\htmlnano\lib\modules\removeAttributeQuotes.cjs133531574624571380 0
 47G:\learning\js\node_modules\is-number\README.md133531574617967627 0
 53G:\learning\js\node_modules\js-yaml\lib\type\merge.js133531574624061374 0
 97G:\learning\js\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json133531574655749713 0
@@ -2540,7 +2536,6 @@
 104G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeOffCanvasPaths.js133531574657079922 0
 44G:\learning\js\node_modules\escalade\license133531574616711253 0
 52G:\learning\js\node_modules\css-what\lib\es\parse.js133531574619773474 0
-38G:\learning\js\dist\image.a22fcee5.jpg133541120877865143 0
 44G:\learning\js\node_modules\csso\lib\replace133531574627067184 1
 79G:\learning\js\node_modules\css-select\node_modules\entities\lib\index.d.ts.map133531574652599237 0
 50G:\learning\js\node_modules\escalade\sync\index.js133531574617667427 0
@@ -2715,6 +2710,7 @@
 61G:\learning\js\node_modules\domelementtype\lib\index.d.ts.map133531574620978754 0
 61G:\learning\js\node_modules\domelementtype\lib\esm\index.d.ts133531574621533880 0
 65G:\learning\js\node_modules\domelementtype\lib\esm\index.d.ts.map133531574620623668 0
+59G:\learning\js\node_modules\domelementtype\lib\esm\index.js133531574618137643 0
 110G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax\generate.js133531574656949921 0
 63G:\learning\js\node_modules\domelementtype\lib\esm\package.json133531574619843470 0
 59G:\learning\js\node_modules\caniuse-lite\data\regions\TM.js133531574634398358 0
@@ -4241,6 +4237,9 @@
 73G:\learning\js\node_modules\caniuse-lite\data\features\intrinsic-width.js133531574631672712 0
 66G:\learning\js\node_modules\caniuse-lite\data\features\jpeg2000.js133531574631792718 0
 64G:\learning\js\node_modules\caniuse-lite\data\features\jpegxl.js133531574631802717 0
+46G:\learning\js\node_modules\@swc\core\spack.js133531574622550040 0
+62G:\learning\js\node_modules\@parcel\codeframe\lib\codeframe.js133531574629347364 0
+62G:\learning\js\node_modules\caniuse-lite\data\features\json.js133531574631837928 0
 81G:\learning\js\node_modules\caniuse-lite\data\features\kerning-pairs-ligatures.js133531574631857863 0
 47G:\learning\js\node_modules\browserslist\cli.js133531574623450040 0
 55G:\learning\js\node_modules\@parcel\events\src\types.js133531574656129735 0
@@ -4603,6 +4602,7 @@
 72G:\learning\js\node_modules\@babel\highlight\node_modules\chalk\index.js133531574653249217 0
 76G:\learning\js\node_modules\@swc\helpers\src\_object_destructuring_empty.mjs133531574630837607 0
 63G:\learning\js\node_modules\@swc\helpers\src\_object_spread.mjs133531574630857603 0
+37G:\learning\js\dist\index.d09aa95e.js133541149424436381 0
 61G:\learning\js\node_modules\@parcel\core\test\fixtures\parcel133531574659560356 1
 69G:\learning\js\node_modules\@swc\helpers\src\_object_spread_props.mjs133531574630847608 0
 75G:\learning\js\node_modules\@swc\helpers\src\_object_without_properties.mjs133531574630877604 0
@@ -4713,6 +4713,7 @@
 58G:\learning\js\node_modules\@swc\helpers\cjs\_ts_param.cjs133531574626952100 0
 55G:\learning\js\node_modules\@swc\helpers\cjs\_using.cjs133531574627052057 0
 53G:\learning\js\node_modules\@swc\counter\package.json133531574621018759 0
+39G:\learning\js\dist\image.a22fcee5.jpeg133541149422990547 0
 62G:\learning\js\node_modules\@swc\core-win32-x64-msvc\README.md133531574620393669 0
 50G:\learning\js\node_modules\@swc\core\binding.d.ts133531574624121386 0
 89G:\learning\js\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\prefixIds.js133531574655699702 0
@@ -5523,7 +5524,7 @@
 93G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Comment.js133531574655469711 0
 98G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\TypeSelector.js133531574656439926 0
 96G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\WhiteSpace.js133531574656569936 0
-38G:\learning\js\dist\index.7d00abcc.css133541120880471139 0
+38G:\learning\js\dist\index.7d00abcc.css133541149419819891 0
 85G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist\csso.js133531574655699702 0
 89G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist\csso.min.js133531574655819713 0
 81G:\learning\js\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data133531574657925016 1
@@ -5946,5 +5947,4 @@
 37G:\learning\js\node_modules\.bin\svgo133531574712524233 0
 41G:\learning\js\node_modules\.bin\svgo.cmd133531574712524233 0
 59G:\learning\js\node_modules\.bin\update-browserslist-db.ps1133531574712524233 0
-37G:\learning\js\dist\index.ea861b64.js133541120881908307 0
-30G:\learning\js\dist\index.html133541120881908307 0
+30G:\learning\js\dist\index.html133541149424436381 0
